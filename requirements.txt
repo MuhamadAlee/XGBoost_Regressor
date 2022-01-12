@@ -1,0 +1,6 @@
+pandas
+notebook
+matplotlib
+sklearn
+xgboost
+seaborn
