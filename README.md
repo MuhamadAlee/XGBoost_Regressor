@@ -15,3 +15,5 @@ Steps to run repo
 4) run code.
     
         jupyter notebook
+
+5) Run cells for training and testing model.
